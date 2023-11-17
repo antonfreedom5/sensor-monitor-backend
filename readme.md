@@ -23,8 +23,8 @@ CRUD приложение для ведения учёта датчиков, с 
 
 ### Запуск серверной части приложения
 
-1. Клонировать репозиторий git clone https://github.com/antonfreedom5/sensor-monitor-backend.git
-2. Выполнить команду docker-compose -f sensor-monitor-backend/docker-compose/docker-compose.yml build && docker-compose -f sensor-monitor-backend/docker-compose/docker-compose.yml up
+1. Клонировать репозиторий `git clone https://github.com/antonfreedom5/sensor-monitor-backend.git`
+2. Выполнить команду `docker-compose -f sensor-monitor-backend/docker-compose/docker-compose.yml build && docker-compose -f sensor-monitor-backend/docker-compose/docker-compose.yml up`
 
 
 ---
